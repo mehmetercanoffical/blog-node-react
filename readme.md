@@ -6,6 +6,8 @@
 - redux
 - react-redux
 - redux-thunk // asenkorn işlemleri için
+- redux-devtools-extension // chromdaki debug işlemleri için
+
 
 # router işlemi için 
 - react-router-down
